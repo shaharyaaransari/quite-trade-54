@@ -1,6 +1,7 @@
 # Glow, Grab,
 
-Deployed Link - https://glowgrab.netlify.app/
+## Deployed Link -
+           https://glow-grab-one.vercel.app/
 
 ## What is Glow Grab about?
 
